@@ -33,7 +33,7 @@ I'm a web UX/UI design student at Vanier College, currently expanding my full-st
 ## Featured Projects
 
 **Coming Soon!**  
-Stay tuned for full details on my portfolio sites, Python apps, WordPress themes, and analysis case studies under development. [web:5]
+Stay tuned for full details on my portfolio sites, Python apps, WordPress themes, and analysis case studies under development.
 
 ---
 
