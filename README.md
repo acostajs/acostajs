@@ -45,5 +45,5 @@ Stay tuned for full details on my portfolio sites, Python apps, WordPress themes
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=acostajs&show_icons=true&theme=tokyonight)
 
