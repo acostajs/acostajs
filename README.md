@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there, Juan Acosta 👋<br>Junior Web Developer from Montréal, QC, currently completing Vanier College’s Web Design Specialist program. Seeking internships to fulfill course requirements while targeting junior backend roles in Python/Django.
+Hi there, Juan Acosta here!👋<br>Junior Web Developer from Montréal, QC, currently completing Vanier College’s Web Design Specialist program. Seeking internships to fulfill course requirements while targeting junior backend roles in Python/Django.
 
 
 ## 🌐 Socials:
