@@ -1,9 +1,9 @@
 # A Quick Intro
 
 Hi there, Juan Acosta here.  
-I am a junior web developer based in Montréal, QC, currently completing Vanier College’s Web Design Specialist program.  
-With a background in hospitality, I bring a strong focus on teamwork, communication, and problem‑solving to every project.  
-Right now, I am especially interested in backend‑leaning roles using Python and Django, and I am actively seeking internship opportunities to fulfill my program requirements and keep growing as a developer.
+I am a junior web developer based in Montreal, QC, currently completing Vanier College Web Design Specialist program.  
+With a background in hospitality, I bring a strong focus on teamwork, communication, and problem solving to every project.  
+Right now, I am especially interested in backend leaning roles using Python and Django, and I am actively seeking internship opportunities to fulfill my program requirements and keep growing as a developer.
 
 
 ## Tech Stack:
