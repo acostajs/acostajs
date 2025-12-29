@@ -32,7 +32,10 @@
 			{ "name": "English", "level": "Fluent" },
 			{ "name": "French", "level": "Intermediate" }
 		],
-		"funFacts": ["I'm Dark Souls enthusiast", "I Built first website in 2024"]
+		"funFacts": [
+			"I'm Dark Souls enthusiast",
+			"I Built my first website in 2024"
+		]
 	},
 	"values": [
 		"Craftsmanship",
