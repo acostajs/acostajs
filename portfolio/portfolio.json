@@ -1,48 +1,43 @@
 {
-  "about": {
-    "headline": "Junior Full-Stack Web Developer",
-    "tagline": "Creative problem-solver",
-    "currentRole": "Junior Web Developer",
-    "location": "Montréal, Quebec, Canada"
-  },
-  "story": {
-    "intro": "Sound designer turned full-stack developer. I bring creative thinking and precision from audio production to web development.",
-    "transition": "Discovered web development at Vanier College and found my passion for building intuitive digital experiences.",
-    "passions": "I love crafting clean interfaces, solving complex problems, and creating seamless user experiences."
-  },
-  "softSkills": [
-    "Creative problem-solving",
-    "Calm under pressure",
-    "Clear communication",
-    "Attention to detail",
-    "Adaptability",
-    "Team collaboration",
-    "Reliability",
-    "Continuous learning"
-  ],
-  "personal": {
-    "interests": [
-      "Videogames (Dark Souls, Elden Ring, retro arcade)",
-      "Sound design & audio production",
-      "Classical music + heavy metal",
-      "Mechanical keyboards",
-      "Open-source projects"
-    ],
-    "languages": [
-      { "name": "Spanish", "level": "Native" },
-      { "name": "English", "level": "Fluent" },
-      { "name": "French", "level": "Intermediate" }
-    ],
-    "funFacts": [
-      "Dark Souls enthusiast",
-      "Built first website in 2024",
-      "Can identify instruments by ear"
-    ]
-  },
-  "values": [
-    "Craftsmanship",
-    "Lifelong learning",
-    "Authentic collaboration",
-    "Pixel-perfect experiences"
-  ]
+	"about": {
+		"headline": "Junior Full-Stack Web Developer",
+		"tagline": "Creative problem-solver from sound design to code",
+		"currentRole": "Vanier College Web Program",
+		"location": "Montréal, QC, Canada"
+	},
+	"story": {
+		"shortBio": "Sound designer turned developer. I bring creative thinking from audio production to building intuitive web experiences. Discovered coding at Vanier College and fell in love with React + Django.",
+		"passions": "Crafting clean UIs, solving complex problems, creating seamless experiences."
+	},
+	"softSkills": [
+		"Creative problem-solving",
+		"Calm under pressure",
+		"Clear communication",
+		"Attention to detail",
+		"Adaptability",
+		"Team collaboration",
+		"Reliability",
+		"Continuous learning"
+	],
+	"personal": {
+		"interests": [
+			"Videogames (Dark Souls, Elden Ring, retro arcade)",
+			"Sound design & audio production",
+			"Classical music + heavy metal",
+			"Mechanical keyboards",
+			"Open-source projects"
+		],
+		"languages": [
+			{ "name": "Spanish", "level": "Native" },
+			{ "name": "English", "level": "Fluent" },
+			{ "name": "French", "level": "Intermediate" }
+		],
+		"funFacts": ["I'm Dark Souls enthusiast", "I Built first website in 2024"]
+	},
+	"values": [
+		"Craftsmanship",
+		"Lifelong learning",
+		"Authentic collaboration",
+		"Pixel-perfect experiences"
+	]
 }
