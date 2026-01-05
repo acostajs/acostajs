@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="./banner.png" alt="Junior Full-Stack Developer Banner" width="100%">
-</p>
+![Banner](banner.avif)
 
 # Current Focus
 
