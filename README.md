@@ -1,4 +1,8 @@
-# Current Focus 
+<p align="center">
+  <img src="./banner.png" alt="Junior Full-Stack Developer Banner" width="100%">
+</p>
+
+# Current Focus
 
 I'm a junior web developer in Montreal, QC, finishing the Web Design Specialist program at Vanier College.
 
@@ -6,16 +10,18 @@ My current focus is backend-oriented development using Python and Django, with a
 
 I'm actively seeking a winter internship starting early 2026, where I can contribute to real projects, learn from a collaborative team, and gain hands-on experience.
 
-##  What I'm Working On
-- Deepening my understanding of React through hands-on projects  
-- Building portfolio projects that incorporate backend functionality, with an emphasis on APIs and data-driven features  
+## What I'm Working On
+
+- Deepening my understanding of React through hands-on projects
+- Building portfolio projects that incorporate backend functionality, with an emphasis on APIs and data-driven features
 - Continuously improving my portfolio, which automatically updates using the GitHub API
 
-##  Selected Projects
+## Selected Projects
+
 - **Portfolio Website:** A personal portfolio that dynamically pulls project data from GitHub using the GitHub API.  
   _More projects coming soon._
 
-##  Tech Stack
+## Tech Stack
 
 **Primary / Comfortable With:**
 
@@ -25,7 +31,6 @@ Front-End:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-
 
 Back-End:
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
@@ -50,13 +55,9 @@ Tools & Deployment:
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat&logo=WordPress&logoColor=white)
 
-## GitHub Stats 
+## GitHub Stats
+
 [![](https://visitcount.itsvg.in/api?id=acostajs&icon=5&color=0)](https://visitcount.itsvg.in)
 ![](https://github-readme-stats.vercel.app/api?username=acostajs&theme=github_dark_dimmed&hide_border=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=acostajs&theme=github_dark_dimmed&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=acostajs&theme=github_dark_dimmed&hide_border=false&layout=compact)
-
-
-
-
-
