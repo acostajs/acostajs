@@ -1,23 +1,24 @@
 # Current Focus
 
-I’m a junior web developer in Montreal, QC, finishing the Web Design Specialist program at Vanier College.
+I'm a junior web developer in Montreal, QC, finishing the Web Design Specialist program at Vanier College.
 
-My current focus is backend-oriented development using Python and Django, with a particular interest in building APIs and CRUD-based applications. While backend work is where I’m most comfortable, I’m open to learning across the stack and exploring any opportunity that encourages growth.
+My current focus is backend-oriented development using Python and Django, with a particular interest in building APIs and CRUD-based applications. While backend work is where I'm most comfortable, I'm open to learning across the stack and exploring any opportunity that encourages growth.
 
-I’m actively seeking a winter internship starting early 2026, where I can contribute to real projects, learn from a collaborative team, and gain hands-on experience.
+I'm actively seeking a winter internship starting early 2026, where I can contribute to real projects, learn from a collaborative team, and gain hands-on experience.
 
-##  What I’m Working On
+##  What I'm Working On
 - Deepening my understanding of React through hands-on projects  
 - Building portfolio projects that incorporate backend functionality, with an emphasis on APIs and data-driven features  
 - Continuously improving my portfolio, which automatically updates using the GitHub API
 
 ##  Selected Projects
-- **Portfolio Website** – A personal portfolio that dynamically pulls project data from GitHub using the GitHub API.  
+- **Portfolio Website:** A personal portfolio that dynamically pulls project data from GitHub using the GitHub API.  
   _More projects coming soon._
 
 ##  Tech Stack
 
-**Primary / Comfortable With**  
+**Primary / Comfortable With**
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white)
 ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=flat&logo=django&logoColor=white&color=ff1709&labelColor=gray)
@@ -49,7 +50,7 @@ I’m actively seeking a winter internship starting early 2026, where I can cont
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
 
-## 📊 GitHub Stats
+## GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=acostajs&theme=github_dark_dimmed&hide_border=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=acostajs&theme=github_dark_dimmed&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=acostajs&theme=github_dark_dimmed&hide_border=false&layout=compact)
