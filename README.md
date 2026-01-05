@@ -55,9 +55,9 @@ Tools & Deployment:
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat&logo=WordPress&logoColor=white)
 
-## GitHub Stats
+## GitHub Stats - ![Visitors](https://komarev.com/ghpvc/?username=acostajs&label=Visitors&color=0e75b6)
 
-[![](https://visitcount.itsvg.in/api?id=acostajs&icon=5&color=0)](https://visitcount.itsvg.in)
+
 ![](https://github-readme-stats.vercel.app/api?username=acostajs&theme=github_dark_dimmed&hide_border=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=acostajs&theme=github_dark_dimmed&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=acostajs&theme=github_dark_dimmed&hide_border=false&layout=compact)
