@@ -1,55 +1,41 @@
 {
 	"bio": {
-		"headline": "About.",
-		"story": "I'm Juan Sebastian Acosta Pinilla, a Colombo-Canadian full-stack dev living in Montréal, Quebec. I love turning wild ideas into real web apps—think slick React frontends, solid Django backends, or e-commerce sites with Stripe that just work. Coming from sound design and cooking gigs, I've got that knack for precision and adapting on the fly, now channeling it into code."
+		"headline": "About",
+		"story": "I’m Juan Sebastian Acosta Pinilla, a junior web developer based in Montréal, QC, currently completing Vanier College’s Web Design Specialist program. I’m seeking a winter internship where I can learn quickly, contribute to real projects, and grow within a supportive team."
 	},
-	"personality": {
-		"headline": "My Vibe and Style",
-		"story": "I’m an iterative problem-solver and detail-oriented team player, at home in structured workflows like GitHub Issues, Milestones, Kanban boards (Trello/Jira), and Figma collaboration. Frequent commits, rebasing, and early CI/CD setup ensure clean, reliable code and smooth team integration."
+
+	"working_style": {
+		"headline": "How I Work",
+		"story": "I’m reliable, focused, and comfortable working in small teams. I value clear communication, shared goals, and steady progress. I take ownership of my work and enjoy collaborating with others to solve problems and deliver quality results."
 	},
-	"background": {
-		"headline": "My Journey So Far",
-		"story": "I began with electroacoustic composition at Universidad Tres de Febrero (Argentina), sound design at Tecson Studio(Argentina), and culinary roles—including sous chef at Taco Club (Revelstoke, BC) and service at Hotel Alvear Palace (Argentina). After obtaining Canadian Permanent Residency, I pursued web development through Vanier College’s Web Design Specialist program, transforming high-pressure skills into full-stack capabilities."
+
+	"current_focus": {
+		"headline": "What I’m Working On",
+		"story": "I’m currently building portfolio projects that combine clean interfaces with solid backend functionality. I enjoy working on features where structure, data, and logic are just as important as presentation."
 	},
+
 	"key_projects": {
-		"headline": "Projects I'm Proud Of",
-		"story": "These projects highlight practical problem-solving for junior roles."
+		"headline": "Projects",
+		"story": "The projects shown here reflect my ability to learn quickly, follow requirements, and build complete features from start to finish. They are representative of the kind of work I’m ready to support as an intern."
 	},
+
 	"core_skills": {
-		"headline": "Skills in My Toolbox",
-		"front-end": [
-			"HTML5",
-			"CSS3",
-			"React",
-			"TypeScript/JavaScript",
-			"Bootstrap",
-			"Tailwind",
-			"Exploring Svelte/SvelteKit"
-		],
-		"back-end": ["Django", "Flask", "Python", "Exploring FastAPI"],
-		"tools": [
-			"Bun for Front-End",
-			"uv for Back-End",
-			"node.js",
-			"deno",
-			"Git/CI-CD"
-		],
-		"databases": [
-			"MySQL",
-			"SQLite",
-			"learning more about PostgreSQL and MongoDB."
-		]
+		"headline": "Skills Overview",
+		"story": "I work primarily with modern web technologies and have a strong foundation in both frontend and backend development. I’m especially interested in backend-leaning roles, while remaining open to full-stack learning opportunities."
 	},
+
 	"development_process": {
-		"headline": "Development Process",
-		"story": "I start with Figma ideation and requirements, organize via GitHub Projects/Issues or Trello/Jira, then iterate with branching/commits, CI/CD, component/unit tests, and deployment (GitHub Pages currently; Vercel/Netlify next). This agile approach delivers quality code efficiently."
+		"headline": "How I Approach Projects",
+		"story": "I start by understanding the problem, then break work into manageable steps. I focus on writing clear, maintainable code and improving through feedback and iteration. I’m comfortable adapting to new tools and workflows as needed."
 	},
-	"influences": {
-		"headline": "What Fires Me Up",
-		"story": "I love reading books on programming and design, with “The Pragmatic Programmer” by Andrew Hunt and David Thomas standing out as a key influence—its emphasis on clean, modular code shapes my approach. This aligns with Svelte’s unified components, Python’s versatility across ML, data, and servers, and FastAPI’s elegant simplicity. Mentors Maxime Pigeon and Marc-André Charpentier, UX principles from Nielsen/Norman (via Interaction Design Foundation), and Linus Torvalds’ pragmatic style further keep me user-focused and efficient."
+
+	"motivations": {
+		"headline": "What Drives Me",
+		"story": "I enjoy learning through building and improving systems over time. I’m motivated by progress, collaboration, and the satisfaction of delivering something that works well and is easy for others to use or maintain."
 	},
+
 	"career_goals": {
-		"headline": "Where I'm Headed",
-		"story": "Right now? Land a Montréal backend internship where I can learn fast. Mid-term: Rack up real projects, crush databases and queries, pick up a new language yearly (Go in 2026!). Long-term: Lead projects, dip into open-source part-time. This career switch has me excited for whatever comes next."
+		"headline": "What I’m Looking For",
+		"story": "I’m looking for a winter internship starting between February and April in an environment that values learning, mentorship, and teamwork. I’m especially drawn to small teams and growing companies where I can contribute meaningfully while continuing to develop my skills."
 	}
 }
