@@ -5,17 +5,23 @@ I'm a junior web developer in Montreal, QC, finishing the Web Design Specialist 
 My current focus is backend-oriented development using Python and Django, with a particular interest in building APIs and CRUD-based applications. While backend work is where I'm most comfortable, I'm open to learning across the stack and exploring any opportunity that encourages growth.
 
 I'm actively seeking a winter internship starting early 2026, where I can contribute to real projects, learn from a collaborative team, and gain hands-on experience.
+<br />
+<br />
 
 ## What I'm Working On
 
 - Deepening my understanding of React through hands-on projects
 - Building portfolio projects that incorporate backend functionality, with an emphasis on APIs and data-driven features
 - Continuously improving my portfolio, which automatically updates using the GitHub API
+<br />
+<br />
 
 ## Selected Projects
 
 - **Portfolio Website:** A personal portfolio that dynamically pulls project data from GitHub using the GitHub API.  
   _More projects coming soon._
+<br />
+<br />
 
 ## Tech Stack
 
@@ -54,6 +60,8 @@ Tools & Deployment:
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat&logo=WordPress&logoColor=white)
+<br />
+<br />
 
 ## GitHub Stats  ![Visitors](https://komarev.com/ghpvc/?username=acostajs&label=Visitors&color=0e75b6)
 
