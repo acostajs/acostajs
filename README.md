@@ -1,6 +1,6 @@
 # Current Focus
 
-I'm a junior web developer in Montreal, QC, finishing the Web Design Specialist program at Vanier College.
+I'm a web developer in Montreal, QC, finishing the Web Design Specialist program at Vanier College.
 
 My current focus is backend-oriented development using Python and Django, with a particular interest in building APIs and CRUD-based applications. While backend work is where I'm most comfortable, I'm open to learning across the stack and exploring any opportunity that encourages growth.
 
@@ -14,8 +14,10 @@ I'm actively seeking a winter internship starting early 2026, where I can contri
 
 ## Selected Projects
 
-- **Portfolio Website:** A personal portfolio that dynamically pulls project data from GitHub using the GitHub API.  
-  _More projects coming soon._
+- **[Portfolio Website](https://github.com/acostajs/acostajs.github.io):** A personal portfolio that dynamically pulls project data from GitHub using the GitHub API. 
+- **[Ceramic Shop Web App](https://github.com/acostajs/vanier-ceramic-shop):** a full-stack conversion of a ceramics portfolio into a mini e-commerce site built with Django, Stripe Checkout, and accessible, responsive UI. 
+
+_More projects coming soon._
 
 ## Tech Stack
 
