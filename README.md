@@ -12,13 +12,6 @@ I'm actively seeking a winter internship starting early 2026, where I can contri
 - Building portfolio projects that incorporate backend functionality, with an emphasis on APIs and data-driven features
 - Continuously improving my portfolio, which automatically updates using the GitHub API
 
-## Selected Projects
-
-- **[Portfolio Website](https://github.com/acostajs/acostajs.github.io):** A personal portfolio that dynamically pulls project data from GitHub using the GitHub API. 
-- **[Ceramic Shop Web App](https://github.com/acostajs/vanier-ceramic-shop):** a full-stack conversion of a ceramics portfolio into a mini e-commerce site built with Django, Stripe Checkout, and accessible, responsive UI. 
-
-_More projects coming soon._
-
 ## Tech Stack
 
 **Primary / Comfortable With:**
