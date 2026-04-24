@@ -1,7 +1,7 @@
 # Current Focus
 
-I'm a full-stack developer based in Montréal, passionate about building things
-that are fast, clean, and enjoyable to use — from smooth UIs to solid APIs.
+I'm a full-stack developer based in Montreal, passionate about building things
+that are fast, clean, and enjoyable to use, from smooth UIs to solid APIs.
 
 Want to know more about me? I built something for that:
 
