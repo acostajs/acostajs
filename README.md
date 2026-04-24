@@ -1,16 +1,19 @@
 # Current Focus
 
-I'm a web developer in Montreal, QC, finishing the Web Design Specialist program at Vanier College.
+I'm a full-stack developer based in Montréal, passionate about building things
+that are fast, clean, and enjoyable to use — from smooth UIs to solid APIs.
 
-My current focus is backend-oriented development using Python and Django, with a particular interest in building APIs and CRUD-based applications. While backend work is where I'm most comfortable, I'm open to learning across the stack and exploring any opportunity that encourages growth.
+Want to know more about me? I built something for that:
 
-I'm actively seeking a winter internship starting early 2026, where I can contribute to real projects, learn from a collaborative team, and gain hands-on experience.
+````bash
+npx meet-juan
+````
 
 ## What I'm Working On
 
 - Deepening my understanding of React through hands-on projects
 - Building portfolio projects that incorporate backend functionality, with an emphasis on APIs and data-driven features
-- Continuously improving my portfolio, which automatically updates using the GitHub API
+- Improving my CLI portfolio — because why not make it interactive?
 
 ## Tech Stack
 
