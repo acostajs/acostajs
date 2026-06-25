@@ -1,56 +1,42 @@
 # Current Focus
 
-I'm a full-stack developer based in Montreal, passionate about building things
-that are fast, clean, and enjoyable to use, from smooth UIs to solid APIs.
-
-Want to know more about me? I built something for that:
-
-````bash
-npx meet-juan
-````
+I'm a QA Automation Engineer with a strong full-stack development foundation based in Montreal. I focus on building stable end-to-end automation suites, validating APIs, and enforcing strict code-quality guardrails through modern linting and pre-commit hooks.
 
 ## What I'm Working On
 
-- Deepening my understanding of React through hands-on projects
-- Building portfolio projects that incorporate backend functionality, with an emphasis on APIs and data-driven features
-- Improving my CLI portfolio — because why not make it interactive?
+- **Test Framework Architecture:** Building and scaling reliable E2E regression test suites using Playwright (TypeScript), Cypress, and Selenium.
+- **API Testing & Validation:** Engineering robust backend test layers using pytest for FastAPI/Django REST endpoints, focusing on schema validation and edge-case testing.
+- **CI/CD & Code Quality:** Integrating automated checks into project workflows using modern tools like Ruff, Biome, and Lefthook to guarantee stable, regression-free deployments.
 
-## Tech Stack
+## Tech Stack & Tooling
 
-**Primary / Comfortable With:**
+**Languages:**
 
-Front-End:
-
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-
-Back-End:
-
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white)
-![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=flat&logo=django&logoColor=white&color=ff1709&labelColor=gray)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
 
-Tools & Deployment:
+**Test Automation:**
 
-![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=flat&logo=bun&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-%232EAD33.svg?style=flat&logo=playwright&logoColor=white)
+![Cypress](https://img.shields.io/badge/-Cypress-%2317202C?style=flat&logo=cypress&logoColor=white)
+![Selenium](https://img.shields.io/badge/-Selenium-%2343B02A?style=flat&logo=selenium&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+
+**Code Quality & CI/CD:**
+
+![Lefthook](https://img.shields.io/badge/Lefthook-%233F51B5.svg?style=flat)
+![Ruff](https://img.shields.io/badge/Ruff-%23D7FF00.svg?style=flat&logoColor=black)
+![Biome](https://img.shields.io/badge/Biome-%2360A5FA.svg?style=flat)
 [![uv](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/uv/main/assets/badge/v0.json)](https://github.com/astral-sh/uv)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=flat&logo=bun&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
 
-**Experience With:**
+**Application Frameworks & Databases:**
 
-![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=flat&logo=svelte&logoColor=white)
-![SvelteKit](https://img.shields.io/badge/sveltekit-%23ff3e00.svg?style=flat&logo=svelte&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat&logo=WordPress&logoColor=white)
-
-
+![Next.js](https://img.shields.io/badge/Next.js-ffffff?style=flat&logo=nextdotjs&logoColor=black)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
