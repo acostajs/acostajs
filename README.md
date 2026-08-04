@@ -1,6 +1,6 @@
 # Current Focus
 
-I'm a QA Automation Engineer with a strong full-stack development foundation based in Montreal. I focus on building stable end-to-end automation suites, validating APIs, and enforcing strict code-quality guardrails through modern linting and pre-commit hooks.
+I'm a junior QA professional based in Montreal, with a background in full-stack web development, currently focused on test automation. I build end-to-end automation suites, validate APIs, and enforce code-quality guardrails through modern linting and pre-commit hooks — and I'm working toward my ISTQB Foundation Level certification.
 
 ## What I'm Working On
 
